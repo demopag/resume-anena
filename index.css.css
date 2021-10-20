@@ -1,0 +1,31 @@
+#image{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.part1{
+    width: 200px;
+    height: 1000px;
+    padding: 2px;
+    background-color: rgb(75, 238, 238);
+    margin-bottom: 100px;
+    margin-left: 393px;
+    margin-top: 20px;
+    float: left;
+}
+.part2{
+    width: 500px;
+    height: 1000px;
+    padding: 3px;
+    text-align: left;
+    background-color: rgb(244, 253, 253);
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-top: 20px;
+    float: right;
+}
+.pd{
+    margin-left: 30px;
+}
+.edu{
+    margin-left: 30px;
+}
